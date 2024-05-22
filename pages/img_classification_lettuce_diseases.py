@@ -8,7 +8,7 @@ from io import BytesIO
 import base64
 
 
-with open('pages/sky_condition_model.p', 'rb') as f:
+with open('pages/lettuce_disease_detection_model.p', 'rb') as f:
     model = pickle.load(f)
 
 img2vec = Img2Vec()
@@ -18,9 +18,9 @@ img2vec = Img2Vec()
 ## Streamlit Web App Interface
 st.set_page_config(layout="wide", page_title="Image Classification for Weather")
 
-st.write("## Let's try to see what weather is in the image!")
+st.write("## This is a sample for identifying Lettuce Diseases!")
 st.write(
-    ":grin: We'll try to predict the weather depicted in your uploaded image :grin:"
+    ":grin: We'll try to predict the disease depicted of the uploaded image :grin:"
 )
 st.sidebar.write("## Upload and download :gear:")
 
