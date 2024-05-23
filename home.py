@@ -2,7 +2,6 @@ import streamlit as st
 from st_pages import Page, Section, show_pages, add_page_title, hide_pages
 
 add_page_title()
-
 show_pages(
     [   
         Page("home.py", "ITEQMT Machine Learning Application Portfolio", "💻"),
@@ -19,7 +18,7 @@ show_pages(
     ]
 )
 
-# hide_pages(["Thank you"])
+hide_pages(["Thank you"])
 
 st.markdown("### 👨‍🔧 ML Learning by [koalatech](https://github.com/koalatech)")
 
@@ -90,11 +89,11 @@ Urna molestie at elementum eu facilisis sed odio morbi quis. Arcu non sodales ne
 ### ⭐ Star the project on Github  <iframe src="https://ghbtns.com/github-btn.html?user=koalatech&repo=streamlit_web_app&type=star&count=true"  width="150" height="20" title="GitHub"></iframe>   
 """, unsafe_allow_html=True)
 
-# hide_streamlit_style = """
-# <style>
-# #MainMenu {visibility: hidden;}
-# footer {visibility: hidden;}
-# </style>
-# """
+hide_streamlit_style = """
+<style>
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+</style>
+"""
 
 # st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
