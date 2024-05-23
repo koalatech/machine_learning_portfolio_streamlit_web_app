@@ -13,6 +13,7 @@ filename = 'pages/crop_recom_model.sav'
 loaded_model = pickle.load(open(filename, 'rb'))
 
 # # Use the model to make predictions
+@st.cache_data 
 def predict_crop():
     st.text("The crop is " + crop_name)
     return

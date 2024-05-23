@@ -27,13 +27,14 @@ st.sidebar.write("## Upload and download :gear:")
 MAX_FILE_SIZE = 5 * 1024 * 1024  # 5MB
 
 # Download the fixed image
+@st.cache_data 
 def convert_image(img):
     buf = BytesIO()
     img.save(buf, format="jpg")
     byte_im = buf.getvalue()
     return byte_im
 
-
+@st.cache_data 
 def fix_image(upload):
     image = Image.open(upload)
     col1.write("Image to be predicted :camera:")
