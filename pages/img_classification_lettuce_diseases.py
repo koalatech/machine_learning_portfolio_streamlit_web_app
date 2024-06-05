@@ -5,7 +5,7 @@ import streamlit as st
 # from rembg import remove
 from PIL import Image
 from io import BytesIO
-import base64
+
 
 
 with open('pages/lettuce_disease_detection_model.p', 'rb') as f:
