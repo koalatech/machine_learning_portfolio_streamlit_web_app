@@ -27,7 +27,7 @@ st.image("./back.jpg")
 st.markdown("""<a href="/photographer/thinkstock-83786">Thinkstock</a> on <a href="/">Freeimages.com</a>""",unsafe_allow_html=True,)
 
 st.info("Visit the project [Github](https://github.com/koalatech/streamlit_web_app)")
-st.info("👨‍👦‍👦 Please take note when on streamlit.app the [Image Classification] pagegs are not working due to Memory Limitation of 'Free Tier' hosting of Streamlit") 
+st.info("👨‍👦‍👦 Please take note when on streamlit.app the [Image Classification] pages are not working due to Memory Limitation of 'Free Tier' hosting of Streamlit") 
 st.markdown("---")
 
 with st.expander("Sample ""st.expander"""):
