@@ -1,5 +1,7 @@
 This is a demonstration of a streamlit-based web application which demonstrates the following:
-You may also visit the site: https://iteqmtproject.streamlit.app/
+You may also visit the site: [VISIT DEMO](https://iteqmtproject.streamlit.app).
+
+
 *note image classification is not working due to memory limitations in streamlit "free-tier"
 *Simple sentiment analyzer
 *Crop recommendation system based on NPK levels
