@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-st.header('Crop Recommendation Model')
+st.header('Crop Recommendation App')
 st.subheader('This model was trained using a dataset')
 st.code('''
         import streamlit as st
