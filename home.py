@@ -15,6 +15,7 @@ show_pages(
         Page("pages/crop_src.py", "Crop Recommendation SRC", "1️⃣", in_section=True),
         Page("pages/sentiment_src.py", "Basic Sentiment Analyzer SRC", "2️⃣", in_section=True),
         Page("pages/image_classification_src.py", "Image Classification SRC", "3️⃣", in_section=True),
+        Page("pages/full_src_recom.py", "Full Crop Recommendation SRC", "4️⃣", in_section=True),
 
     ]
 )
