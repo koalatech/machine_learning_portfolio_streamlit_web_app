@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-st.header('Simple Sentiment Analyzer')
+st.header('Simple Sentiment Analyzer App')
 st.subheader('This python code is implemented for Streamlit')
 st.code('''
         import streamlit as st
