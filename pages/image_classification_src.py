@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-st.header('An image Classification Code')
+st.header('Image Classification App')
 st.subheader('This python code is implemented for Streamlit')
 st.code('''
         import pickle
