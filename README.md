@@ -1,7 +1,7 @@
 # This is a demonstration of a streamlit-based web application
 You may visit the site: [VISIT DEMO](https://iteqmtproject.streamlit.app).
 
-note image classification is not working due to memory limitations in streamlit "free-tier"
+*note the image classification section is not working due to memory limitations in streamlit web hosting "free-tier"
 
 ## Web App Features
 
