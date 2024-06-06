@@ -1,4 +1,3 @@
-
 st-pages
 nltk
-img2vec_pytorch
+img2vec
