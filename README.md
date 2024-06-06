@@ -5,9 +5,9 @@ note image classification is not working due to memory limitations in streamlit 
 
 ## Web App Features
 
-### Simple sentiment analyzer
-### Crop recommendation system based on NPK levels
-### Image Classification
+Simple sentiment analyzer
+Crop recommendation system based on NPK levels (prediction)
+Image Classification
 
 ## Screenshots of the system
 
