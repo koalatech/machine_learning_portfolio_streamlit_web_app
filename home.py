@@ -14,7 +14,7 @@ show_pages(
         Section("Sample Source Code", "💾"),
         Page("pages/crop_src.py", "Crop Recommendation SRC", "1️⃣", in_section=True),
         Page("pages/sentiment_src.py", "Basic Sentiment Analyzer SRC", "2️⃣", in_section=True),
-         Page("pages/image_classification_src.py", "Image Classification SRC", "3️⃣", in_section=True),
+        Page("pages/image_classification_src.py", "Image Classification SRC", "3️⃣", in_section=True),
 
     ]
 )
