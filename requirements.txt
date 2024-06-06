@@ -1,4 +1,4 @@
-tensorflow-cpu
+
 st-pages
 nltk
-img2vec
+
