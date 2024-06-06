@@ -1,3 +1,4 @@
+Img2Vec
 scikit-learn
 st-pages
 nltk
