@@ -2,6 +2,8 @@
 You may visit the site: [VISIT DEMO](https://iteqmtproject.streamlit.app).
 
 *note the image classification section is not working due to memory limitations in streamlit web hosting "free-tier"
+*use the requirements.txt for reference
+
 
 ## Web App Features
 
