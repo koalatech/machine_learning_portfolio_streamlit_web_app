@@ -1,10 +1,6 @@
 # This is a demonstration of a streamlit-based web application
 You may visit the site: [VISIT DEMO](https://mlportfolio.streamlit.app/).
 
-*note the image classification section is not working due to memory limitations in streamlit web hosting "free-tier"
-*use the requirements.txt for reference
-
-
 ## Web App Features
 
 _Simple sentiment analyzer_
