@@ -27,7 +27,8 @@ st.markdown("### 👨‍🔧 ML Learning by [koalatech](https://github.com/koala
 st.image("./back.jpg")
 st.markdown("""<a href="/photographer/thinkstock-83786">Thinkstock</a> on <a href="/">Freeimages.com</a>""",unsafe_allow_html=True,)
 
-st.info("Visit the project [Github](https://github.com/koalatech/streamlit_web_app)")
+st.info("Visit the project [Github](https://github.com/koalatech/machine_learning_portfolio_streamlit_web_app)")
+st.info("Issues are now fixed with Streamlit 1.35.0")
 st.info("👨‍🔧 Please take note when on streamlit.app the [Image Classification] pages are not working due to Memory Limitation of 'Free Tier' hosting of Streamlit") 
 st.markdown("---")
 
