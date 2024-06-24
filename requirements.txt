@@ -1,6 +1,6 @@
 scikit-learn==1.4.2
 Pillow==10.3.0
 img2vec-pytorch==1.0.1
-st-pages==0.4.5
+st-pages==0.3.5
 nltk==3.8.1
 
